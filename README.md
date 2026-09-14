@@ -6,15 +6,6 @@
 
 ---
 
-### 🚀 Hakkımda
-
-* 💻 **Yazılım Mühendisliği** öğrencisiyim ve masaüstü/backend sistemleri üzerine çalışıyorum.
-* 🛠️ Özellikle **C#**, **.NET WinForms** ve veritabanı mimarileri konusunda kendimi geliştiriyorum.
-* 🤖 Yapay zeka entegrasyonları, otomasyonlar ve algoritma geliştirme süreçlerine ilgi duyuyorum.
-
----
-
----
 
 ### 🌐 Sosyal Medya
 
